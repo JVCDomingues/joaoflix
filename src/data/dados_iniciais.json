@@ -1,45 +1,45 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
+      "titulo": "Music",
       "link": "https://www.alura.com.br/formacao-front-end",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "Things I like to hear",
+        "url": "https://www.youtube.com/watch?v=4KkVL-l6F5E"
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "Megadeth Symphony of Destruction Guitar Center Sessions on DIRECTV",
+          "url": "https://www.youtube.com/watch?v=4KkVL-l6F5E"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "Nothing Else Matters S&M2",
+          "url": "https://www.youtube.com/watch?v=JhWfrtIPZjk"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "Stairway to Heaven",
+          "url": "https://www.youtube.com/watch?v=2cZ_EFAmj08"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "Hardwired... To Self Destruct - All songs in almost 2 minutes",
+          "url": "https://www.youtube.com/watch?v=Q562cRH1uQw"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "Pink Floyd - Breathe (Violet Orlandi cover) ft Martin Mateo",
+          "url": "https://www.youtube.com/watch?v=S_bYUPA4RpU"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "Pink Floyd - Shine On You Crazy Diamond 1990 Live Video",
+          "url": "https://www.youtube.com/watch?v=Fk0V_GGa2XM"
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+          "titulo": "Save a Prayer (2009 Remaster)",
+          "url": "https://www.youtube.com/watch?v=zMNZ5Gw3Zbg"
         },
         {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "Whitesnake - Is This Love 2011 Live Video FULL HD",
+          "url": "https://www.youtube.com/watch?v=dOWN6Bw49hk"
         }        
       ]
     },
@@ -47,7 +47,7 @@
       "titulo": "Back End",
       "cor": "#00C86F",
       "link_extra": {
-        "text": "Cursos de Back End na Alura",
+        "text": "Back End videos",
         "url": "https://www.alura.com.br/cursos-online-programacao"
       },
       "videos": [
@@ -74,10 +74,10 @@
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
+      "titulo": "Data Science and Artificial Intelligence",
       "cor": "#9cd33b",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
+  
         "url": "https://www.alura.com.br/formacao-data-science"
       },
       "videos": [
@@ -96,6 +96,10 @@
         {
           "titulo": "Como ingressar no mercado de Data Science?",
           "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+        },
+        {
+          "titulo": "Scikit-Learn Tutorial | Machine Learning With Scikit-Learn | Sklearn | Python Tutorial | Simplilearn",
+          "url": "https://www.youtube.com/watch?v=0Lt9w-BxKFQ"
         }
       ]
     },
@@ -125,7 +129,7 @@
       "titulo": "Games",
       "cor": "red",
       "link_extra": {
-        "text": "Formação de Jogos na Alura",
+        "text": "",
         "url": "https://www.alura.com.br/formacao-jogos-unity"
       },
       "videos": [
@@ -142,12 +146,12 @@
           "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
         },
         {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+          "titulo": "FIFA 20 Gameplay (PS4 HD) [1080p60FPS]",
+          "url": "https://www.youtube.com/watch?v=mWQ_x2ltWD8"
         },
         {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+          "titulo": "Official Call of Duty®: Modern Warfare® - Reveal Trailer",
+          "url": "https://www.youtube.com/watch?v=bH1lHCirCGI"
         }
       ]
     },
